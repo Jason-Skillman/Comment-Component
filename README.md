@@ -1,6 +1,8 @@
 # Comment-Component
 Editor only component to add comments to game objects.
 
+![comment_component_inspector](Documentation~/images/comment_component_inspector.png)
+
 ## How to install
 This package can be installed through the Unity `Package Manager` with Unity version 2019.3 or greater.
 
