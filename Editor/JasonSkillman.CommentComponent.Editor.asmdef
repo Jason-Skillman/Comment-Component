@@ -1,0 +1,18 @@
+{
+    "name": "JasonSkillman.CommentComponent.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db1d2d2e765bbd942b78a35538b724d0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

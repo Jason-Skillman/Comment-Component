@@ -1,0 +1,11 @@
+{
+  "name": "com.jasonskillman.commentcomponent",
+  "displayName": "Comment Component",
+  "version": "1.0.0",
+  "description": "Editor only component to add comments to game objects.",
+  "author": {
+    "name": "Jason Skillman",
+    "email": "jason_skillman@outlook.com",
+    "url": "https://github.com/Jason-Skillman"
+  }
+}
