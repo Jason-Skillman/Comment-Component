@@ -1,7 +1,7 @@
 {
   "name": "com.jasonskillman.commentcomponent",
   "displayName": "Comment Component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Editor only component to add comments to game objects.",
   "author": {
     "name": "Jason Skillman",
