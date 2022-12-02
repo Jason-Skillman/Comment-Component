@@ -1,6 +1,6 @@
 {
     "name": "JasonSkillman.CommentComponent",
-    "rootNamespace": "",
+    "rootNamespace": "JasonSkillman.CommentComponent",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
