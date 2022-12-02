@@ -1,4 +1,4 @@
-namespace CommentComponent {
+namespace JasonSkillman.CommentComponent {
 	using UnityEngine;
 
 	/// <summary>

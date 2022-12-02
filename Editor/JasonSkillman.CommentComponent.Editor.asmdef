@@ -1,6 +1,6 @@
 {
     "name": "JasonSkillman.CommentComponent.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "JasonSkillman.CommentComponent.Editor",
     "references": [
         "GUID:db1d2d2e765bbd942b78a35538b724d0"
     ],
